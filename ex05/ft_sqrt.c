@@ -6,7 +6,7 @@
 /*   By: alabreui <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/07/12 11:42:11 by alabreui          #+#    #+#             */
-/*   Updated: 2019/07/16 16:45:31 by alabreui         ###   ########.fr       */
+/*   Updated: 2019/07/18 11:39:14 by alabreui         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@ int		ft_sqrt(int nb)
 	long int	result;
 	long int	nbr;
 
-	result = 3;
+	result = 2;
 	nbr = nb;
 	if (nb == 0)
 		return (0);
